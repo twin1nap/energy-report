@@ -1,0 +1,6 @@
+C:\Users\joran\Documents\GitHub\energy-report\ClassLibraryCsv\bin\Debug\ClassLibraryCsv.dll
+C:\Users\joran\Documents\GitHub\energy-report\ClassLibraryCsv\bin\Debug\ClassLibraryCsv.pdb
+C:\Users\joran\Documents\GitHub\energy-report\ClassLibraryCsv\obj\Debug\ClassLibraryCsv.csproj.AssemblyReference.cache
+C:\Users\joran\Documents\GitHub\energy-report\ClassLibraryCsv\obj\Debug\ClassLibraryCsv.csproj.CoreCompileInputs.cache
+C:\Users\joran\Documents\GitHub\energy-report\ClassLibraryCsv\obj\Debug\ClassLibraryCsv.dll
+C:\Users\joran\Documents\GitHub\energy-report\ClassLibraryCsv\obj\Debug\ClassLibraryCsv.pdb

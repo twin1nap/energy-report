@@ -1,0 +1,14 @@
+C:\Users\joran\Documents\GitHub\energy-report\energy report\bin\Debug\energy report.exe.config
+C:\Users\joran\Documents\GitHub\energy-report\energy report\bin\Debug\energy report.exe
+C:\Users\joran\Documents\GitHub\energy-report\energy report\bin\Debug\energy report.pdb
+C:\Users\joran\Documents\GitHub\energy-report\energy report\bin\Debug\ClassLibraryCsv.dll
+C:\Users\joran\Documents\GitHub\energy-report\energy report\bin\Debug\ClassLibraryCsv.pdb
+C:\Users\joran\Documents\GitHub\energy-report\energy report\obj\Debug\energy report.csproj.AssemblyReference.cache
+C:\Users\joran\Documents\GitHub\energy-report\energy report\obj\Debug\energy_report.Form1.resources
+C:\Users\joran\Documents\GitHub\energy-report\energy report\obj\Debug\energy_report.Properties.Resources.resources
+C:\Users\joran\Documents\GitHub\energy-report\energy report\obj\Debug\energy report.csproj.GenerateResource.cache
+C:\Users\joran\Documents\GitHub\energy-report\energy report\obj\Debug\energy report.csproj.CoreCompileInputs.cache
+C:\Users\joran\Documents\GitHub\energy-report\energy report\obj\Debug\energy r.EF726C61.Up2Date
+C:\Users\joran\Documents\GitHub\energy-report\energy report\obj\Debug\energy report.exe
+C:\Users\joran\Documents\GitHub\energy-report\energy report\obj\Debug\energy report.pdb
+C:\Users\joran\Documents\GitHub\energy-report\energy report\obj\Debug\energy report.exe.config
